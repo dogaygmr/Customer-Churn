@@ -1,1 +1,1 @@
-# Customer-Churn
+#Bank customer churn prediction by classification methods is the process of using machine learning algorithms to predict which banking customers are likely to leave or discontinue their relationship with a bank. Churn prediction is a common problem in the banking industry, as losing customers can result in significant financial losses and reduced growth.
